@@ -1,0 +1,34 @@
+{
+	"URL1": "./images/img_la.jpg",
+	"URL2": "./images/img_ny.jpg",
+	"URL3": "./images/img_chi.jpg",
+	"URL4": "./images/img_c.jpg",
+	"URL5": "./images/img_ch.jpg",
+	"maindescription": "Founded in Lebanon on September 2013, Min ila is a civil, independent and non-governmental organization that\n                  is determined to bring a positive change to the society through citizenship education.",
+	"programsDescriptio": "Our passion is revolved around the innovation of citizenship education and its learning processes. Our three\n                  programs – Formal and Non-Formal Education and an Employability and Vocational Program - are revolved around\n                  teaching our students a wide array of skills. Citizenship Education is a dedication that aims to teaching new\n                  skills, knowledge, and attitudes that are required to be an active, democratic, responsible and critical citizen.\n                  This is where we teach them how to tackle the formal and non-formal education sector through various different\n                  projects.",
+	"box11": "Within the Classroom",
+	"box12": "Formal Education Program",
+	"box1Desc": "By proposing a new civic education curriculum for schools, we are creating an entirely new program that is\n                      highly interactive, innovational and inspiring for the students. This could lead them to learn how to be\n                      more aware, engaged and active in their respective communities.",
+	"box21": "Outside the Classroom",
+	"box22": "Non-Formal Education Program",
+	"box2Desc": "Our projects are designed to enhance civic education skills and knowledge by promoting values such as human rights, democracy and intercultural dialogue through arts, sports, community initiatives, etc.",
+	"box31": "Beyond the Classroom",
+	"box32": "Youth Employability Program",
+	"box3Desc": "In hopes of motivating and preparing the youth for the future, we are constantly working on several methods\n                      to give them the chance to enter the job market in development and humanitarian sectors by providing them\n                      with the job skills, life skill and technical skills.",
+	"teamDesc": "Min ila is proudly governed by a Board of Directors that is elected every two years by our General Assembly. The rest of the team consists of our dedicated interns that always have an important role to play in the development of our organization. Supported by generous people who have become our partners, the team is the backbone of the organization that keeps us striving for more.",
+	"URL": "images/team/teamgroup.jpg",
+	"contactDesc": "We would love to hear from you!",
+	"collection": [
+		{
+			"careers": "Communications and Media Intern"
+		}
+	],
+	"URL-resources": "http://www.lebanon24.com/articles/1507379645808701800/",
+	"title": "Press Release - Lebanon 24",
+	"resources": [
+		{
+			"URL-resources": "https://goo.gl/3f8WpR",
+			"title": "Press Release - Aliwaa Newspaper"
+		}
+	]
+}
