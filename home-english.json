@@ -1,18 +1,6 @@
 {
 	"description": " As part of the Internship program at Min ila, we always have a dedicated young group to aid our objective.",
 	"collection": [
-		{
-			"name": "Clara Neubert",
-			"profileURL": "https://www.google.com",
-			"imgURL": "images/interns/Clara_Neubert.png",
-			"careers": "1"
-		},
-		{
-			"careers": "2"
-		},
-		{
-			"careers": "3"
-		},
 		{}
 	],
 	"URL1": "./images/coverphotos/d.png",
